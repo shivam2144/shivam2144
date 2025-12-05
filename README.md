@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Shivam!
+# 👋 Hello, I'm Shivram!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Innovative+Solutions+%F0%9F%92%A1;Welcome+to+My+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
 
