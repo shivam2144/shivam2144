@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-``javascript
+```javascript
 const shivam = {
     location: "India 🇮🇳",
     role: "Full Stack Developer",
@@ -30,7 +30,7 @@ const shivam = {
     currentlyLearning: "Web3 & Blockchain Development",
     funFact: "I debug with console.log() and I'm not ashamed! 🐛"
 };
-``
+```
 
 ---
 
